@@ -6,7 +6,7 @@ permissions:
   contents: read
 engine:
   id: claude
-  model: claude-sonnet-4
+  model: claude-sonnet-4-5-20250929
 safe-outputs:
   create-pull-request:
 ---
